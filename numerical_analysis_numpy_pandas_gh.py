@@ -1,4 +1,4 @@
-# using pandas read_csv  instead of nupy.loadtxt 
+# using pandas read_csv  instead of numpy.loadtxt 
 import pandas as pd
 import numpy as np
 import os
